@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["WWW", "LLL"],
+  "key": {
+    "W": { "item": "minecraft:white_wool" },
+    "L": { "item": "minecraft:leather" }
+  },
+  "result": {
+    "id": "stillground:bedroll",
+    "count": 1
+  }
+}
