@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "stillground",
+  "version": "${version}",
+  "name": "Stillground",
+  "description": "Rare, compact abandoned campsites in the wilderness.",
+  "authors": ["Shahisha1"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.shahisha.stillground.Stillground"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
